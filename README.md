@@ -1,7 +1,7 @@
 # Whatsapp Responsive Layout
 
 Flutter:WhatsAppUI clone
-
+Whatsapp Responsive Layout
 
 
 ## Screenshots
@@ -10,8 +10,6 @@ Flutter:WhatsAppUI clone
 ![App Screenshot](https://github.com/SakshamSharma2026/Flutter-WhatsAppUI-clone/blob/master/screenshots/ios.png?raw=true)
 ![App Screenshot](https://github.com/SakshamSharma2026/Flutter-WhatsAppUI-clone/blob/master/screenshots/ios_2.png?raw=true)
 
-
-Whatsapp Responsive Layout
 
 ## Getting Started
 
