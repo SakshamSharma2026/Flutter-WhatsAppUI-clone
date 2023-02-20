@@ -11,7 +11,7 @@ class ChatList extends StatelessWidget {
     return Container(
       decoration: const BoxDecoration(
           image: DecorationImage(
-            fit: BoxFit.cover,
+              fit: BoxFit.cover,
               image: AssetImage('assets/images/backgroundImage.png'))),
       child: ListView.builder(
           itemCount: messages.length,

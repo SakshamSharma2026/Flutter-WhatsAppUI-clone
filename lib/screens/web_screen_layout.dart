@@ -88,15 +88,11 @@ class WebScreenLayout extends StatelessWidget {
                       const SizedBox(
                         width: 50,
                         height: 50,
-                        child: Icon(Icons.mic,
-                            size: 25, color: Colors.white),
+                        child: Icon(Icons.mic, size: 25, color: Colors.white),
                       )
                     ],
                   ),
                 ),
-                //Chat App bar
-                // Chat List
-                //Message input box
               ],
             ),
           )

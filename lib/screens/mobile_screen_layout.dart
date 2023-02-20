@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_layout/colors/colors.dart';
-
 import '../widgets/contacts_list.dart';
 
 class MobileScreenLayout extends StatelessWidget {
